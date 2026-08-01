@@ -229,7 +229,7 @@ Ships with real-world threat intelligence for demonstration:
 
 ---
 ## Screenshots
-Project Overview
+
 ![Dashboard](screenshots/dashboard.png)
 ![Vault](screenshots/vault.png)
 ![Cases](screenshots/cases.png)
