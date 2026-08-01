@@ -228,10 +228,16 @@ Ships with real-world threat intelligence for demonstration:
 - **10 Threat actor profiles** — APT29, Lazarus, FIN7, Sandworm, Scattered Spider, APT41, Turla, Cl0p, Kimsuky, REvil
 
 ---
+## Screenshots
+Project Overview
+![Dashboard](screenshots/dashboard.png)
+![Vault](screenshots/vault.png)
+![Cases](screenshots/cases.png)
+![Terminal](screenshots/terminal.png)
 
 ## Easter Egg
 
-There is one hidden in the UI. Find it.
+There is one hidden in the UI. Lemme see if u can Find it.
 
 ---
 
@@ -240,7 +246,7 @@ There is one hidden in the UI. Find it.
 <div align="center">
 
 **Mustafa Gomaa**
-Cybersecurity & Networks
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lumidren-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lumidren/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-MustafaGomaa-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/MustafaGomaa)
